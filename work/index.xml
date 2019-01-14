@@ -75,5 +75,14 @@ The app design focuses on being clean and minimal, with simple focused iconograp
       <description>01 Colour    02 Type     03 Graphics</description>
     </item>
     
+    <item>
+      <title>T.S.Eliot</title>
+      <link>https://rubychilds.github.io/work/tseliot/</link>
+      <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/work/tseliot/</guid>
+      <description>The Ghost of T.S.Eliot  Artist + Data Scientist / School for Poetic Computation / 2017   The Ghost of T.S.Eliot questions whether we should allow artists and people to live on after death. T.S.Eliot is himself, one of the profound poets whom has ever lived, producing works such as The Wasteland (1922), Four Quartets (1943) and The Love Song of J. Alfred Prufrock (1915), his most widely known work.</description>
+    </item>
+    
   </channel>
 </rss>
