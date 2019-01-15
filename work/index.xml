@@ -93,5 +93,15 @@ The app design focuses on being clean and minimal, with simple focused iconograp
       <description>The Ghost of T.S.Eliot  Artist + Data Scientist / School for Poetic Computation / 2017   The Ghost of T.S.Eliot questions whether we should allow artists and people to live on after death. T.S.Eliot is himself, one of the profound poets whom has ever lived, producing works such as The Wasteland (1922), Four Quartets (1943) and The Love Song of J. Alfred Prufrock (1915), his most widely known work.</description>
     </item>
     
+    <item>
+      <title>Tbot</title>
+      <link>https://rubychilds.github.io/work/tbot/</link>
+      <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/work/tbot/</guid>
+      <description>TBOT: The Affordable Tensorflow Robot  Creative Technologist / School for Poetic Compuation / 2016    T-Bot aims to be the worlds smallest artificial intelligence robot. We want to make T-Bot accessible to everyone by making it affordable and easy to learn about artificial intelligence.
+Currently T-Bot drives around autonomously and observes its environment via its camera. When it sees something it recognizes, it will talk through its speaker and tell us what it sees.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -94,6 +94,16 @@ The app design focuses on being clean and minimal, with simple focused iconograp
     </item>
     
     <item>
+      <title>Tbot</title>
+      <link>https://rubychilds.github.io/work/tbot/</link>
+      <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/work/tbot/</guid>
+      <description>TBOT: The Affordable Tensorflow Robot  Creative Technologist / School for Poetic Compuation / 2016    T-Bot aims to be the worlds smallest artificial intelligence robot. We want to make T-Bot accessible to everyone by making it affordable and easy to learn about artificial intelligence.
+Currently T-Bot drives around autonomously and observes its environment via its camera. When it sees something it recognizes, it will talk through its speaker and tell us what it sees.</description>
+    </item>
+    
+    <item>
       <title>Keys to Good Data Science</title>
       <link>https://rubychilds.github.io/blog/keys-to-good-data-science/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
